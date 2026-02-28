@@ -55,5 +55,14 @@ w3.schule
 w3.tattoo
 w3.vin
 w3.hiphop
+w3.hospital
+w3.claims
+w3.express
+w3.farm
+w3.coupons
+w3.holiday
+w3.shoes
+w3.jewelry
 w3.realestate
 w3.homes
+w3.business
